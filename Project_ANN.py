@@ -455,7 +455,7 @@ if mode == "👤 Single Customer Analysis":
         # ---------------------------------------------------------
         st.markdown("---")
         st.markdown("### 🧪 **What-If Scenario Simulator**")
-        st.caption("Slider / Selectbox change karte hi live prediction calculation update hogi bina page reset hue.")
+        st.caption("Changing the slider or selectbox will instantly update the live prediction calculation without resetting the page..")
 
         sim_col1, sim_col2, sim_col3 = st.columns(3)
         with sim_col1:
