@@ -61,5 +61,5 @@ Access the live interactive application here:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/ann-customer-churn-intelligence.git](https://github.com/your-username/ann-customer-churn-intelligence.git)
-   cd ann-customer-churn-intelligence
+   git clone [https://github.com/zohaib-ahmed-khan/ANN-Customer-Churn-Intelligence.git](https://github.com/zohaib-ahmed-khan/ANN-Customer-Churn-Intelligence.git)
+   cd Ann-Customer-Churn-Intelligence
